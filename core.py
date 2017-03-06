@@ -15,7 +15,7 @@ print("Hello. You don't seem to be around these parts. Mind telling me about you
 time.sleep(7)
 print("For starters, what's your name?")
 name = str(input())
-print("Ahh... so your name is " + name + "...")
+print("Ahh... so you're " + name + "...")
 time.sleep(2.5)
 print("I think it's nice!")
 time.sleep(5)
